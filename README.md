@@ -35,7 +35,7 @@ O projeto é dividido em **frontend (React/NextJs)** e **backend (NestJs)**, com
 ### Executar Backend
 
 ```bash
-npm run dev:start
+npm run start
 ```
 
 Servidor disponível em [localhost:3001](http://localhost:3001)
