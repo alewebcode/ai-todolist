@@ -8,6 +8,7 @@ O projeto é dividido em **frontend (React/NextJs)** e **backend (NestJs)**, com
 ### Frontend
 
 - ⚛️ NextJs
+- 🔷 TypeScript
 - 🧭 Zustand (gerenciamento de estado)
 - 🎨 TailwindCSS
 - 🔔 Sonner para notificações
@@ -15,6 +16,7 @@ O projeto é dividido em **frontend (React/NextJs)** e **backend (NestJs)**, com
 ### Backend
 
 - 🟢 NestJS
+- 🔷 TypeScript
 - 💾 SQLite
 - 🔗 TypeORM
 - 🤖 Integração com IA (OpenRouter)
